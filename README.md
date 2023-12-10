@@ -4,7 +4,7 @@
 <details closed>
   <summary>Screenshots</summary>
 
-  To Be Added
+  ![Screenshot 1](https://raw.githubusercontent.com/Zachary-Rude/Camera/master/Screenshot_20231210-132049.png)
 </details>
 
 This is a simple camera app for Android devices. It uses the [CameraX](https://developer.android.com/jetpack/androidx/releases/camera) API, which allows this app to run on Android devices from almost any manufacturer.
